@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.79">
+<testcase classname="Free CRM Application Testing" name="Login with correct username and password" time="0.129">
+<system-out><![CDATA[Given This is valid login test..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM Application Testing" name="Create a case" time="0.009">
+<system-out><![CDATA[Given This is create case test..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
